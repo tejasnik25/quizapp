@@ -40,9 +40,9 @@ const quizData = [
       answer: "To manage and organize data"
     },
     {
-      question: "Which of these companies was not founded in a garage?",
-      options: ["Amazon", "Google", "Apple", "Microsoft"],
-      answer: "Amazon"
+      question: "What type of device is a Raspberry Pi?",
+      options: ["A type of smartphone", "A small, affordable computer", "A gaming console", "A virtual reality headset"],
+      answer: "A small, affordable computer"
     },
     {
       question: "What does 'GPU' stand for?",
